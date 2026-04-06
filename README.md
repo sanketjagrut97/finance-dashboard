@@ -146,8 +146,8 @@ npm run preview    # preview the production build locally
 ## Author
 
 **Sanket Jagrut**
-- GitHub: [username](https://github.com/sanketjagrut97)
-- LinkedIn: [linkedin](https://www.linkedin.com/in/sanket-jagrut-0853b0206/)
+- GitHub: [sanketjagrut97](https://github.com/sanketjagrut97)
+- LinkedIn: [Sanket Jagrut](https://www.linkedin.com/in/sanket-jagrut-0853b0206/)
 
 ---
 
