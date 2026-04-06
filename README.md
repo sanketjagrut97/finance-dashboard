@@ -1,5 +1,7 @@
 # FinanceIQ — Personal Finance Dashboard
 
+Live Demo: https://finance-dashboard-flame-mu.vercel.app/
+
 A modern, production-quality Finance Dashboard built with React, featuring
 role-based access control, interactive charts, smart insights, and full
 CRUD transaction management.
